@@ -1,0 +1,6 @@
+.active {
+    background-color: white;
+    padding: 0.7rem;
+    border-radius: 13px;
+    transition: all 0.3s ease-in-out;
+}
